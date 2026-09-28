@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./profile-banner.png" 
+    src="https://i.ibb.co.com/PzTjcGfy/my-banner-png.png" 
     alt="Kohinuer Akter Rahi - Full Stack Web Developer"
     width="100%"
   />
