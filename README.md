@@ -1,3 +1,14 @@
+<p align="center">
+  <img 
+    src="./profile-banner.png" 
+    alt="Kohinuer Akter Rahi - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
+
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Kohinuer Akter Rahi</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
